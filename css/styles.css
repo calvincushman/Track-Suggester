@@ -1,0 +1,18 @@
+body {
+  background-color: #6E91A1;
+}
+
+#keyboard {
+  max-width: 600px;
+  height: auto;
+  float:right;
+}
+
+#epicodus {
+  width: 150px;
+  height: auto;
+  float: left;
+}
+ .introduction {
+   margin-top: 350px;
+ }
